@@ -1,4 +1,4 @@
-print("Hello world successful");
+print("Hello world successful")
 
 # Store input numbers
 num1 = input('Enter first number: ')
